@@ -173,22 +173,34 @@
     margin-bottom: 40px !important;
 }
 .text-primary {
-    color: #20a0ff !important;
+    color: #409EFF !important;
 }
 .text-success {
-    color: #70d445 !important;
+    color: #67C23A !important;
 }
 .text-info {
-    color: #2db7f5 !important;
+    color: #909399 !important;
 }
 .text-warning {
-    color: #ff8a0c !important;
+    color: #E6A23C !important;
 }
 .text-danger {
-    color: #e83d2c !important;
+    color: #F56C6C !important;
 }
 .text-gray {
     color: #d3dce6 !important;
+}
+.bg-text-primary{
+    background-color: #303133!important;
+}
+.bg-text-regular {
+    background-color: #606266!important;
+}
+.bg-text-secondary {
+    background-color: #909399;
+}
+.bg-text-placeholder {
+    background-color: #c0c4cc;
 }
 .link-white {
     color: #fff !important;
